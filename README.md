@@ -1,13 +1,13 @@
 # Hi I'm CatRass!
 I'm a beginner level programmer and engineer, trying to learn new languages and new skills.
- 
-  <a href="https://app.daily.dev/CatRass">
-   <img src="https://api.daily.dev/devcards/93cda22f5f3d4634bb6d4bf2eefbcd20.png?r=py6" 
-        width="300" 
-        alt="CatRass' Dev Card" 
-        align="right"
-        />
-  </a> 
+
+ <a href="https://app.daily.dev/CatRass">
+ <img src="https://github.com/CatRass/CatRass/blob/master/devcard.svg" 
+      width="300" 
+      alt="CatRass' DevCard"
+      align="right"
+      />
+</a>
 
 ## Experience
   <div align="left">
