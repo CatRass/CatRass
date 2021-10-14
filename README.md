@@ -2,7 +2,7 @@
 I'm a beginner level programmer and engineer, trying to learn new languages and new skills.
 
  <a href="https://app.daily.dev/CatRass">
- <img src="https://github.com/CatRass/CatRass/blob/master/devcard.svg" 
+ <img src="https://github.com/CatRass/CatRass/blob/main/devcard.svg" 
       width="300" 
       alt="CatRass' DevCard"
       align="right"
