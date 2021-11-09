@@ -1,5 +1,7 @@
 # Hi I'm CatRass!
 I'm a beginner level programmer and engineer, trying to learn new languages and new skills.
+<br>
+I also contributed on a <a href="https://github.com/pimoroni/picosystem/pull/69">Pimoroni Repo by fixing a single grammar mistake</a> :D
 
  <a href="https://app.daily.dev/CatRass">
  <img src="https://github.com/CatRass/CatRass/blob/main/devcard.svg" 
