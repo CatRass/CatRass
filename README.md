@@ -26,7 +26,7 @@ I also contributed on a <a href="https://github.com/pimoroni/picosystem/pull/69"
   <div align="left">
   <div><img id="Schlatt Coin" src="https://img.shields.io/badge/Schlatt%20Coin%3A-On%20Hold-yellow?style=flat-square"></img></div>
   <div><img id="Student Handbook" src="https://img.shields.io/badge/DR%20Student%20Handbook%3A-Abandoned%20-red?style=flat-square"></img></div>
-  <div><img id="BMG Bot" src="https://img.shields.io/badge/BMG%20Discord%20Bot%3A-In%20Progress-brightgreen?style=flat-square"></img></div>
+  <div><img id="BMG Bot" src="https://img.shields.io/badge/DR%20Student%20Handbook%3A-Abandoned%20-red?style=flat-square"></img></div>
   <div><img id="PokéHunter" src="https://img.shields.io/badge/PokéHunter:-In%20Progress-brightgreen?style=flat-square"></img></div>
   <div><img id="Kromer Kard" src="https://img.shields.io/badge/Kromer%20Kard%3A-In%20Progress-brightgreen?style=flat-square"></img></div>
   </div> 
