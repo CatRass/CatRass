@@ -1,4 +1,4 @@
-# Hello there, I'm CatRass
+# Hello there, I'm Darrel
 
 Current student at RMIT Melbourne, programming and messing around with code and technology.
 
