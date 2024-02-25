@@ -50,8 +50,8 @@ C:/Users/Darrel
 
 
 C:/Users/Darrel 
-❯ echo Check out my project below!
-Check out my project below!
+❯ echo Check out my projects below!
+Check out my projects below!
 
 C:/Users/Darrel 
 ❯ exit
