@@ -16,6 +16,7 @@ Current student at RMIT Melbourne, programming and messing around with code and 
 
 <!--==============================================================================-->
 
+<!-- Art generated with: https://www.twitchquotes.com/ascii-art-generator -->
 
 ```javascript
 C:/Users/Darrel 
