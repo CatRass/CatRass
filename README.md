@@ -71,7 +71,7 @@ CatRass (Darrel)
       ▜▛     ▟████▙ ▜████████████████▛           Projects                                          
             ▟██████▙       ▜███▙                 --------                                          
            ▟███▛▜███▙       ▜███▙                Pk-Rust     - Pokemon Gen 1 Save Editor                
-          ▟███▛  ▜███▙       ▜███▙               neodir      - Custom version of the dir and ls command⠀⠀
+          ▟███▛  ▜███▙       ▜███▙               neodir      - Custom version of the dir and ls command
           ▝▀▀▀    ▀▀▀▀▘       ▀▀▀▘               homelab     - A fully self-hosted playground environment, build on Proxmox
                
 ❯ echo Check out my projects below!
