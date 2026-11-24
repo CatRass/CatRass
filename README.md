@@ -46,35 +46,36 @@ Current student at RMIT Melbourne, programming and messing around with code and 
  ⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣷⣤⣤⣤⣶⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
  -->
 
-<!-- Art generated with: https://www.twitchquotes.com/ascii-art-generator -->
+<!-- Art generated with: https://www.twitchquotes.com/ascii-art-generator -->           
 
 ```javascript
-C:/Users/Darrel
-❯ neofetch
+❯ hyfetch
+
 CatRass (Darrel)
 -------
-█████████████████  █████████████████    OS: Windows 11
-█████████████████  █████████████████    Host: Framework Laptop 13 (AMD Ryzen 7040Series)
-█████████████████  █████████████████    Editor: Atom (Deprecated), VSCode
-█████████████████  █████████████████    Shell: Starship⠀⠀⠀⠀⠀⠀⠀⠀
-█████████████████  █████████████████    Terminal: Windows Terminal
-█████████████████  █████████████████    CPU: AMD Ryzen 5 7640U @ 4.95 GHz
-█████████████████  █████████████████    GPU: AMD Radeon(TM) 760M (417.75 MiB) [Integrated]
-█████████████████  █████████████████    Memory: 15.31 GiB / 15.31 GiB
-                                        Locale: en-AU
-█████████████████  █████████████████    Languages
-█████████████████  █████████████████    ---------
-█████████████████  █████████████████    Desktop: Rust, Java, C++, Python
-█████████████████  █████████████████    Web: HTML, JS, TS, CSS, NodeJS, Thymeleaf, Springboot
-█████████████████  █████████████████    Projects
-█████████████████  █████████████████    --------
-█████████████████  █████████████████    Pk-Rust: Pokemon Gen 1 Save Editor
-█████████████████  █████████████████    ⠀ neodir: Custom version of the dir and ls command⠀⠀
-
-C:/Users/Darrel
+           ▗▄▄▄       ▗▄▄▄▄    ▄▄▄▖              Distro      -  NixOS 26.05 (Yarara) 
+           ▜███▙       ▜███▙  ▟███▛              Kernel      -  7.3.3
+            ▜███▙       ▜███▙▟███▛               Machine     -  Framework Laptop 13 (AMD Ryzen 7040Series) A5 
+             ▜███▙       ▜██████▛                Editor      -  Atom (Deprecated), VSCode                     
+      ▟█████████████████▙ ▜████▛     ▟▙          Shell       -  Starship⠀⠀⠀⠀⠀⠀⠀⠀                              
+     ▟███████████████████▙ ▜███▙    ▟██▙         Terminal    -  kitty                                         
+            ▄▄▄▄▖           ▜███▙  ▟███▛         CPU         -  AMD Ryzen 5 7640U w/ Radeon 760M Graphics (12)
+           ▟███▛             ▜██▛ ▟███▛          Memory      -  15.7 GiB / 15.7 GiB
+          ▟███▛               ▜▛ ▟███▛           Locale      -  en-AU
+ ▟███████████▛                  ▟██████████▙     
+ ▜██████████▛                  ▟███████████▛     Languages                                         
+       ▟███▛ ▟▙               ▟███▛              ---------                                         
+      ▟███▛ ▟██▙             ▟███▛               Desktop     - Rust, Java, C++, Python, C#, Golang 
+     ▟███▛  ▜███▙           ▝▀▀▀▀                Web         - HTML, JS, TS, CSS, NodeJS, ASP.NET  
+     ▜██▛    ▜███▙ ▜██████████████████▛          
+      ▜▛     ▟████▙ ▜████████████████▛           Projects                                          
+            ▟██████▙       ▜███▙                 --------                                          
+           ▟███▛▜███▙       ▜███▙                Pk-Rust     - Pokemon Gen 1 Save Editor                
+          ▟███▛  ▜███▙       ▜███▙               neodir      - Custom version of the dir and ls command⠀⠀
+          ▝▀▀▀    ▀▀▀▀▘       ▀▀▀▘               homelab     - A fully self-hosted playground environment, build on Proxmox
+               
 ❯ echo Check out my projects below!
 Check out my projects below!
 
-C:/Users/Darrel
 ❯ exit
 ```
